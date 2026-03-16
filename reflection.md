@@ -4,13 +4,18 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 
 ## 1. What was broken when you started?
 
-- What did the game look like the first time you ran it?
+Somethings I noticed was the there was a glitch with the attempts that the user gets
+like it wouldn't update properly and it actually gave me 7 attempts rather than 8 . Also saw that the new game button didnt work and when you lose, it tells you that the secret number is actually less than what its guiding you towards withe the "go hight/go lower" prompt. Also the hit button doesnt actually give you hints. The game looked normal honestly 
+
+- What did the game look like the first time you ran it? 
 - List at least two concrete bugs you noticed at the start  
   (for example: "the secret number kept changing" or "the hints were backwards").
 
 ---
 
 ## 2. How did you use AI as a teammate?
+
+ I used claude copilot, 
 
 - Which AI tools did you use on this project (for example: ChatGPT, Gemini, Copilot)?
 - Give one example of an AI suggestion that was correct (including what the AI suggested and how you verified the result).
@@ -19,6 +24,8 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 ---
 
 ## 3. Debugging and testing your fixes
+
+
 
 - How did you decide whether a bug was really fixed?
 - Describe at least one test you ran (manual or using pytest)  
